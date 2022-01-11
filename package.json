@@ -1,0 +1,21 @@
+{
+    "name": "spart-117-theme",
+    "displayName": "Spart 117 Theme",
+    "description": "A theme for nerds",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Spark 117 Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Spark 117 Theme-color-theme.json"
+            }
+        ]
+    }
+}
