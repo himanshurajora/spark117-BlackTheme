@@ -2,6 +2,7 @@
     "name": "spart-117-theme",
     "displayName": "Spart 117 Theme",
     "description": "A theme for nerds",
+    "publisher": "spark117uniqstuff",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.63.0"
