@@ -1,9 +1,9 @@
 {
     "name": "spart-117-theme",
-    "displayName": "Spark 117 Theme",
+    "displayName": "Spark117 Dark Theme",
     "publisher": "spark117uniqstuff",
     "description": "A theme for nerds",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.63.0"
     },
